@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 9
+names: ['ambulance', 'bicycle', 'bus', 'car', 'motorbike', 'pickup', 'truck', 'van', 'license']
